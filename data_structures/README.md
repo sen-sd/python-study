@@ -42,10 +42,10 @@ Files Description
    - Examples: add/remove, membership check, union, intersection, difference
    - Useful for unique unordered elements
 
-4. dictionary_demo.py
-   - Demonstrates Python built-in dictionary operations
-   - Examples: access, add/update/delete, keys/values, iteration
-   - Useful for key-value mappings
+   4. dictionary_demo.py
+      - Demonstrates Python built-in dictionary operations
+      - Examples: access, add/update/delete, keys/values, iteration
+      - Useful for key-value mappings
 
 5. stack.py
    - Implementation of a Stack (LIFO) data structure

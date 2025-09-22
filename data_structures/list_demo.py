@@ -1,12 +1,21 @@
 """
 list_demo.py
 ------------
-Demonstrates Python list operations:
-- Creating lists (including empty lists)
+Demonstrates Python list operations.
+
+Python List:
+- A list is an **ordered, mutable collection** of items.
+- Items can be of **any type**: numbers, strings, lists, tuples, dictionaries, objects.
+- Lists allow **duplicate elements**.
+- Common use cases: storing sequences of data, dynamic collections, queues, stacks.
+
+This demo covers:
+- Creating lists (including empty and dynamic lists)
 - Adding, removing, and updating items
 - Iterating and slicing
 - Using lists to store tabular (CSV-like) data
 - Storing class objects inside a list
+- Mixed-type lists
 """
 
 # ---------------------------

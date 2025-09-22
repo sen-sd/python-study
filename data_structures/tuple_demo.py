@@ -1,14 +1,25 @@
 """
 tuple_demo.py
 -------------
-Demonstrates Python tuple operations:
+Demonstrates Python tuple operations.
+
+Python Tuple:
+- A tuple is an **ordered, immutable collection** of items.
+- Items can be of **any type**, including other tuples.
+- Tuples allow **duplicate elements**.
+- Because tuples are immutable, they can be used as **dictionary keys**.
+- Common use cases: storing fixed records, returning multiple values from a function.
+
+This demo covers:
 - Creating tuples (including empty and single-element tuples)
 - Accessing elements and slicing
 - Immutability
 - Packing and unpacking
-- Nesting tuples
+- Nested tuples
 - Using tuples as dictionary keys
+- Returning multiple values from a function
 """
+
 
 # ---------------------------
 # 1. Creating Tuples
